@@ -42,8 +42,11 @@
             ],
             "func-names": [
                 "off"
-            ]
-        }
+            ],
+            "no-undef": [
+                "off"
+            ]       
+         }
     },
     "author": "",
     "license": "ISC",
