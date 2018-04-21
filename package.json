@@ -45,8 +45,8 @@
             ],
             "no-undef": [
                 "off"
-            ]       
-         }
+            ]
+        }
     },
     "author": "",
     "license": "ISC",
@@ -57,6 +57,7 @@
     },
     "dependencies": {
         "express": "^4.16.3",
+        "moment": "^2.22.1",
         "socket.io": "^2.1.0"
     }
 }
